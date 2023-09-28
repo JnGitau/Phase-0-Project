@@ -1,4 +1,4 @@
-{
+* {
     font-family:sans-serif;
     margin:0;
     padding:0;
@@ -42,7 +42,7 @@ nav ul li a:hover{
 }
 .Details{
     margin-left: 8%;
-    margin-top: 15%;
+    margin-top: 13%;
 }
 .Details h1{
     font-size: 50px;
@@ -59,4 +59,12 @@ span{
 }
 .Details a{
     background: #212121;
+    padding: 10px 18px;
+    text-decoration: none;
+    font-weight: bold;
+    color: #fff;
+    display: inline-block;
+    margin: 30px 0;
+    border-radius: 5px;
 }
+
